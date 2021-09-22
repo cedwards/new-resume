@@ -1,0 +1,103 @@
+BasicInfo:
+  FirstName: Christer
+  LastName: Edwards
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +1 385 404 1337
+    - Icon: fas fa-envelope
+      Info: christer.edwards@gmail.com
+    - Icon: fas fa-globe
+      Info: https://cedwards.org
+    - Icon: fas fa-map-marker-alt
+      Info: Remote
+
+Profile: Hello! My name is Christer. I build cool things. I also write and talk about technology. Always an open-source guy my background has focused on working within the Linux and FreeBSD communities. I've specialized in server automation & configuration management, written SO much documentation and occasionally I make time for programming. I aspire to being the definition of "remote employee" while exploring the Western United States in my converted Promaster. What I do best is imagine how things could be and then imagine how to build those things.
+
+Experience:
+  - Employer: IAM Pulse | An OktaX Company
+    Place: Remote
+    Positions:
+      - Title: Principal Technical Advocate
+        Date: 2021 - Present
+        Details:
+          - I joined Okta as part of their Incubation Project, OktaX. We're trying to improve cloud security by working with experts and a creating a resource hub for IAM. It's a hard problem to solve and it's just the kind of big puzzle my brain likes to chew on. This role combines all the best soft-skills of my previous experience. You know what they say about enjoying what you do...
+        Badges: ['Community', 'Writing', 'Education', 'Cloud', 'Security', 'IAM', 'OktaX']
+
+  - Employer: BastilleBSD
+    Place: Remote
+    Positions:
+      - Title: Open Source Developer
+        Date: 2018 - Present
+        Details:
+          - Bastille is a project that I wanted to build for a long time, so I took some time away from work and built it. It was the result of a decade of using and studying FreeBSD's concept of "jails" (the original Container techology). The Jail technology is the key reason I have been so involved in FreeBSD and I'm honored to be listed in history as a contributor. This project builds on my interests in operating systems, security and automation.
+        Badges: ['Bastille', 'FreeBSD', 'Security', 'Automation', 'Open-Source']
+
+  - Employer: Adobe Inc
+    Place: Utah
+    Positions:
+      - Title: Computer Scientist / Software Developer
+        Date: 2014 - 2019
+        Details:
+          - At Adobe I had the opportunity to work on some global-scale infrastructure. It was as rewarding as it was challenging. My responsibilities included designing and maintaining large scale, highly redundant core Internet services in support of Adobe's many Digital Marketing products. During my time there I also designed and co-created HubbleStack. This project exposed me to the challenges of InfoSec as well as industry compliance standards such as CIS, SOC-2, etc. It's unlikely I'll have another chance to work on the same global-scale infrastructure again. I'm glad I had this opportunity.
+        Badges: ['Developer', 'HubbleStack', 'DNS', 'NTP', 'MeetUps', 'Kafka', 'CDN', 'Python']
+
+      - Title: Site Reliability Engineer
+        Date: 2012 - 2014
+        Details:
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Badges: ['SRE', 'Linux', 'Apache', 'MySQL', 'PHP', 'Kernel']
+
+  - Employer: University of Utah | UNLV | SDSU
+    Place: Utah / Remote
+    Positions:
+      - Title: Instructor - Tech Ed | School of Computing
+        Date: 2010 - 2013
+        Details:
+          - They say "to teach is to learn twice" and it's true. I learned so much by teaching others the things I thought I understood well. Teaching technology has brought me more fulfillment than anything else in my career. It's so rewarding to spend time with students and watch them not only begin a rewarding career but thrive in it. I am inspired by the advice to "lift as you climb". Sharing my knowledge in the classroom is my attempt to do just that.
+        Badges: ['Teaching', 'Linux', 'Programming', 'MySQL', 'UofU']
+      - Title: Cybersecurity - Lead Instructor
+        Date: 2021 - Present
+        Details:
+          - Like so many other people, the pandemic made me evaluate how I wanted to spend my life. This lead to a desire to find more fulfillment in my career, so I returned to part-time teaching. With remote being the new norm I am able to work with more Universities for technology education. Cybersecurity is the focus now and there's never been a greater need for it. Preparing the next generation of technologist to enter the industry is worth a few nights and weekends in a classroom!
+        Badges: ['Teaching', 'Cybersecurity', 'Cloud', 'Python', 'Linux', 'UNLV', 'SDSU']
+
+Interests:
+  - Van Life
+  - Photography
+  - Wild Birds
+  - Hiking
+  - Terrible Movies
+  - Writing
+
+Skills:
+  - Family: SCaLE
+    Items:
+      - SCaLE 9x
+      - SCaLE 10x
+      - SCaLE 11x
+      - SCaLE 14x
+      - SCaLE 15x
+      - SCaLE 16x
+  - Family: OpenWest
+    Items:
+      - 2007
+      - 2008
+      - 2009
+      - 2010
+      - 2017
+  - Family: SaltConf
+    Items:
+      - 2014
+      - 2016
+      - 2017
+  - Family: OSCON
+    Items:
+      - 2007
+      - 2008
+  - Family: SAINTCON
+    Items:
+      - 2017
+  - Family: devopsdays
+    Items:
+      - 2018
